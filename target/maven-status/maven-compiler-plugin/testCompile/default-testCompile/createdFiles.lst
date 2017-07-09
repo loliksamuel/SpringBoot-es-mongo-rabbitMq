@@ -1,0 +1,5 @@
+org/example/ws/AbstractControllerTest.class
+org/example/ws/web/api/GreetingControllerMocksTest.class
+org/example/ws/AbstractTest.class
+org/example/ws/service/GreetingServiceTest.class
+org/example/ws/web/api/GreetingControllerTest.class
