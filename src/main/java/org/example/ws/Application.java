@@ -12,6 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
  * entry point and the central Java configuration class.
  * run this as a java program
  * or in command line "mvn spring-boot:run"
+ 
  * @author Matt Warman
  */
 @SpringBootApplication
@@ -23,7 +24,7 @@ public class Application {
 
     /**
      * Entry point for the application.
-     * 
+     *
      * @param args Command line arguments.
      * @throws Exception Thrown when an unexpected Exception is thrown from the
      *         application.
